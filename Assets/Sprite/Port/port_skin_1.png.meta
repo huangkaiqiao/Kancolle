@@ -323,7 +323,7 @@ TextureImporter:
         width: 1200
         height: 105
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -331,6 +331,27 @@ TextureImporter:
       bones: []
       spriteID: aeba3414df055a84fb1bb754292772a8
       internalID: 1336163374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Org
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 873
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b0a94848ac97a4bbef57f494f72425
+      internalID: 432159284
       vertices: []
       indices: 
       edges: []
@@ -352,6 +373,7 @@ TextureImporter:
       port_skin_1_2: -807107028
       port_skin_1_10: 1336163374
       port_skin_1_9: -1982952928
+      Org: 432159284
       port_skin_1_3: 1832997471
       port_skin_1_6: 2110263045
       port_skin_1_1: -525404024
