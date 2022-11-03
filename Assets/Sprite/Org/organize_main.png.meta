@@ -113,7 +113,7 @@ TextureImporter:
         width: 247
         height: 157
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,7 +134,7 @@ TextureImporter:
         width: 247
         height: 157
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -142,6 +142,27 @@ TextureImporter:
       bones: []
       spriteID: c696bf73a79ccb44a9e9ae2a415d64ca
       internalID: -660878896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: change
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac6b4f0ba8d2c644a712ca9b2653258
+      internalID: -255155904
       vertices: []
       indices: 
       edges: []
@@ -157,6 +178,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      change: -255155904
       none1: 954936721
       none2: -660878896
   spritePackingTag: 
