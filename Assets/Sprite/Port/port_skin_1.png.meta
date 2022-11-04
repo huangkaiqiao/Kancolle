@@ -356,6 +356,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: port_skin_1_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 829
+        width: 812
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5953b8a7ea02548458024fd4761deed5
+      internalID: 566455129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -374,6 +395,7 @@ TextureImporter:
       port_skin_1_10: 1336163374
       port_skin_1_9: -1982952928
       Org: 432159284
+      port_skin_1_11: 566455129
       port_skin_1_3: 1832997471
       port_skin_1_6: 2110263045
       port_skin_1_1: -525404024

@@ -197,7 +197,7 @@ TextureImporter:
         width: 1051
         height: 570
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -205,6 +205,69 @@ TextureImporter:
       bones: []
       spriteID: e1d032b102914554a86625b8e2ebc0e0
       internalID: 603226298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_main_3
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 795
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13b85a2a11f8364e8ef43bc461afa1a
+      internalID: -1512490870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_main_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 746
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e91b83951a8f409a26257b8938a22
+      internalID: -80387742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: common_main_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 716
+        width: 94
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d0e503d5c3c2540a11a15f2de20948
+      internalID: -624639839
       vertices: []
       indices: 
       edges: []
@@ -222,7 +285,10 @@ TextureImporter:
     nameFileIdTable:
       Selection: 2129409319
       Ribbon: 928766007
+      common_main_3: -1512490870
+      common_main_4: -80387742
       common_main_2: 603226298
+      common_main_5: 1564285526
       common_main_1: -963786053
       common_main_0: 1247834752
   spritePackingTag: 
